@@ -1,8 +1,8 @@
 title:            jegu.co
 description:      Just blogging 
-disqus_shortname: 
+disqus_shortname: jegu 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://jegu.co
+url:              
 
 # Owner/author information
 owner:
@@ -34,11 +34,11 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
+#  - title: Theme Setup
+#    url: /theme-setup
+#  - title: External Link
+#    url: http://www.octochord.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
