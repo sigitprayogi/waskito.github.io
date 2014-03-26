@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "TechTalk: Membuat Server Digital Ocean Jadi Seperti Heroku"
+title: "TechTalk: Membuat Mini Heroku di Digital Ocean"
 description: "Membuat Heroku mini di vps kita sendiri di Digital
 Ocean."
 tags: [server, techtalk]
+image:
+  feature: abstract-6.jpg
+  credit: dargadgetz
+  creditlink: 
 comments: true
 share: true
 ---
