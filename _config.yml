@@ -1,6 +1,8 @@
 title:            Yanuar Waskito
 description:      just 
 disqus_shortname: jegu 
+reading_time:     true
+words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://yanuar.waskito.me
 # Owner/author information
