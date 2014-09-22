@@ -8,4 +8,17 @@ image:
 share: true
 ---
 
-A programmer who think that JavaScript is sexy.
+Born and grew in Yogyakarta Indonesia. Play in the forest since childhood, but know computer since elementary. And now becope programmer who think that JavaScript is sexy. Communities enthusiast, traveler wannabe, and music addicted.
+
+Skills that may interest you:
+* AngularJS
+* SCSS
+* HTML
+* CoffeeScript
+* Gulpjs
+* Node.js
+* MongoDB
+
+Other:
+* Chrome App develope experience
+* Wordpress theme tweaking
