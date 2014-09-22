@@ -4756,6 +4756,10 @@ body {
   }
 }
 
+.header-title h2.no-up {
+  text-transform: normal;
+}
+
 .header-title p {
   color: #555555;
 }
