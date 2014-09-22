@@ -14,7 +14,7 @@ share: true
   <img src="/images/kumpul-perdana-jogjajs/kumpul-perdana-jogjajs.jpg" />
 </figure>
 
-Kemaren, tepatnya tanggal 26 Agustus 2014 JogjaJS mengadakan meetup perdana. Meetup yang pertama ini diadakan di kantor Qiscus, tepatnya di Perum Petinggen No. 1229 (deket Muhi). Acara yang dimulai sekitar pukul 19:30 ini pesertanya lumayan, sekitar 10 orang lebih.
+Kemaren, tepatnya tanggal 26 Agustus 2014 JogjaJS mengadakan meetup perdana. Meetup yang pertama ini diadakan di kantor Qiscus, tepatnya di Perum Petinggen No. 1229 (deket Muhi). Acara yang dimulai sekitar pukul 19:30 ini pesertanya lumayan, sekitar 10 orang lebih. <!-- more -->
 
 <figure>
 	<img src="/images/kumpul-perdana-jogjajs/kumpul-perdana-jogjajs-3.jpg" />
@@ -27,7 +27,7 @@ Acara dibuka oleh sambutan dari para penggagas komunitas dan acara, yang diwakil
 </figure>
 
 
-Dan setelah Mas Rifqi Alfian ada saya yang mengisi materi **Membuat Single Page Application menggunakan AngularJS*.
+Dan setelah Mas Rifqi Alfian ada saya yang mengisi materi **Membuat Single Page Application menggunakan AngularJS**.
 
 <figure>
 	<img src="/images/kumpul-perdana-jogjajs/kumpul-perdana-jogjajs-2.jpg" />

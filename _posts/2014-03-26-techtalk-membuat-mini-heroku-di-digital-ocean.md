@@ -17,7 +17,8 @@ yang terkenal dengan “autodeploy” yang memudahkan dan
 mempercepat developer dalam mendeploy aplikasi. Apalagi dengan fitur
 gratis sampai limit tertentu.
 
-Jika kita mendeploy aplikasi kita di heroku, mungkin akan terasa murah saat menggunakan versi gratis, namun saat sudah melampaui limit, maka biaya yang harus kita bayarkan akan mahal, mulai dari `USD 9` ke atas. Solusinya kita bisa membeli vps dengan harga yang relative murah di [Digital Ocean](http://bit.ly/toOcean).
+
+Jika kita mendeploy aplikasi kita di heroku, mungkin akan terasa murah saat menggunakan versi gratis, namun saat sudah melampaui limit, maka biaya yang harus kita bayarkan akan mahal, mulai dari `USD 9` ke atas. Solusinya kita bisa membeli vps dengan harga yang relative murah di [Digital Ocean](http://bit.ly/toOcean). <!-- more -->
 
 Selain Heroku, setahun belakangan ini dunia server dan cloud computing
 diramaikan oleh kemunculan [Digital Ocean](http://bit.ly/toOcean). Startup dari New York yang

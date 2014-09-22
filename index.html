@@ -30,7 +30,14 @@ comments: false
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+      {% if post.content contains "<!-- more -->" %}
+      {{ post.content | split:"<!-- more -->" | first % }}
+      <div markdown="0">
+        <a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url" class="btn btn-small pull-right">Continue Reading</a>
+      </div>
+    {% else %}
+      {{ post.content }}
+    {% endif %}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}

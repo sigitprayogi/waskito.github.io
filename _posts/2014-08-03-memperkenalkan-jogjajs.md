@@ -15,7 +15,7 @@ share: true
   <img src="/images/memperkenalkan-jogjajs/jogjajs-initial-banner.jpg" />
 </figure>
 
-Halo javascript's lover di Jogja. Kali ini jogja punya komunitas programming baru spesial buat javascript, namanya JogjaJS. JogjaJS adalah wadah buat para programmer javascript yang berdomisili di jogja dan sekitarnya.
+Halo javascript's lover di Jogja. Kali ini jogja punya komunitas programming baru spesial buat javascript, namanya JogjaJS. JogjaJS adalah wadah buat para programmer javascript yang berdomisili di jogja dan sekitarnya. <!-- more -->
 
 JogjaJS adalah komunitas seperti ‪JakartaJS‬ yang sekarang aktif di jakarta.
 Bedanya hanya sharing environment yang kita pakai adalah facebook bukan meetup.com, karena melihat banyaknya aktifitas programmer jogja dilakukan via facebook.
