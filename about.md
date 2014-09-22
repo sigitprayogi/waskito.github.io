@@ -8,9 +8,12 @@ image:
 share: true
 ---
 
+
+
 Born and grew in Yogyakarta Indonesia. Play in the forest since childhood, but know computer since elementary. And now becope programmer who think that JavaScript is sexy. Communities enthusiast, traveler wannabe, and music addicted.
 
-Skills that may interest you:
+### Skills that may interest you:
+
 * AngularJS
 * SCSS
 * HTML
@@ -19,6 +22,7 @@ Skills that may interest you:
 * Node.js
 * MongoDB
 
-Other:
+### Other:
+
 * Chrome App develope experience
 * Wordpress theme tweaking
