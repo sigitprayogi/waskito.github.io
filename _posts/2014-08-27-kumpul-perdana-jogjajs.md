@@ -17,20 +17,20 @@ share: true
 Kemaren, tepatnya tanggal 26 Agustus 2014 JogjaJS mengadakan meetup perdana. Meetup yang pertama ini diadakan di kantor Qiscus, tepatnya di Perum Petinggen No. 1229 (deket Muhi). Acara yang dimulai sekitar pukul 19:30 ini pesertanya lumayan, sekitar 10 orang lebih.
 
 <figure>
-	![JogjaJS kumpul]({{ site.url }}/images/kumpul-perdana-jogjajs/kumpul-perdana-jogjajs-3.jpg)
+	<img src="/images/kumpul-perdana-jogjajs/kumpul-perdana-jogjajs-3.jpg" />
 </figure>
 
 Acara dibuka oleh sambutan dari para penggagas komunitas dan acara, yang diwakili oleh [@jeguwaskito](https://twitter.com/jeguwaskito) (baca:saya) yang menjelaskan sekelumit mengenai JogjaJS. Lalu dilanjutkan oleh materi **Membuat Web Service Menggunakan ExpressJS** oleh mas [@merembablas](https://twitter.com/merembablas)
 
 <figure>
-	![JogjaJS kumpul]({{ site.url }}/images/kumpul-perdana-jogjajs/kumpul-perdana-jogjajs-4.jpg)
+	<img src="/images/kumpul-perdana-jogjajs/kumpul-perdana-jogjajs-4.jpg" />
 </figure>
 
 
 Dan setelah Mas Rifqi Alfian ada saya yang mengisi materi **Membuat Single Page Application menggunakan AngularJS*.
 
 <figure>
-	![JogjaJS kumpul]({{ site.url }}/images/kumpul-perdana-jogjajs/kumpul-perdana-jogjajs-2.jpg)
+	<img src="/images/kumpul-perdana-jogjajs/kumpul-perdana-jogjajs-2.jpg" />
 </figure>
 
 Nah sebelum acara berakhir ada sesi kenalan, biar lebih akrab dan dipungkasi sama foto bareng. eh ada banner nya juga lho hehe.
