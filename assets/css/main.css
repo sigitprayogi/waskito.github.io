@@ -4756,10 +4756,6 @@ body {
   }
 }
 
-.header-title h2.no-up {
-  text-transform: normal;
-}
-
 .header-title p {
   color: #555555;
 }
@@ -4807,6 +4803,10 @@ body {
   .feature .header-title h2 a {
     color: #ffffff;
   }
+}
+
+.feature .header-title h2.no-up {
+  text-transform: normal;
 }
 
 .feature .header-title p {
