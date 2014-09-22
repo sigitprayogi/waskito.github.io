@@ -2035,8 +2035,8 @@ All this is done for any sub-level being entered.
   font-family: 'FontAwesome';
   font-style: normal;
   font-weight: normal;
-  src: url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.eot?v=4.1.0');
-  src: url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+  src: url('../fonts/fontawesome-webfont.eot?v=4.1.0');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
 }
 
 .fa {
