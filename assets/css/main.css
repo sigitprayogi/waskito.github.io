@@ -4806,7 +4806,7 @@ body {
 }
 
 .feature .header-title h2.no-up {
-  text-transform: normal;
+  text-transform: none;
 }
 
 .feature .header-title p {
