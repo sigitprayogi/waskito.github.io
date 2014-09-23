@@ -12,7 +12,7 @@ share: true
 
 > Kalau saya mau bikin aplikasi, saya pengen bikin kode yang **simple** , **nggak ribet**. Tapi yang namanya **simple** belum tentu **gampang**. - [Akbar Taufiq Herlangga](https://github.com/atherlangga) 23-Sept-2014 @ Qiscus Engineering Show
 
-Dapet quote hari ini dari mas angga pas beliau ngisi Engineering Show di Qiscus (sharing session internalnya qiscus). Disitu dibahas kode-kode javascript yang dibikin (padahal mas angga itu programmer Java). Mas Angga bikin library memakai plain javascript yang bisa dijalanin di browser atau di node. Dan yang paling keren, kodenya testable. <!-- more -->
+Dapet quote hari ini dari Mas Angga pas beliau ngisi Engineering Show di Qiscus (sharing session internalnya qiscus). Disitu dibahas kode-kode javascript yang dibikin (padahal Mas Angga itu programmer Java). Mas Angga bikin library memakai plain javascript yang bisa dijalanin di browser atau di node. Dan yang paling keren, kodenya testable. <!-- more -->
 
 <figure>
 	<img src="/images/belajar-konsep-programming/es.jpg" alt="Qiscus Engineering Show">
